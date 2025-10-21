@@ -13,9 +13,9 @@ A simple yet elegant weather application built with Flutter, providing real-time
 
 *(You can add screenshots of your app here to give users a visual preview.)*
 
-| Splash Screen                            | Today's Weather                             | Future Forecast                             |
-|------------------------------------------| ------------------------------------------- | ------------------------------------------- |
-| ![Splash Screen](screenshots/splash.png) | ![Today's Weather](screenshots/today.png)    | ![Future Forecast](screenshots/forecast.png)|
+| Splash Screen                                     | Today's Weather                                  | Future Forecast                                  |
+| ------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| ![Splash Screen](assets/screenshots/splash.png)   | ![Today's Weather](assets/screenshots/today.png) | ![Future Forecast](assets/screenshots/forecast.png)|
 
 ## 🚀 Getting Started
 
